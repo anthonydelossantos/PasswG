@@ -1,0 +1,65 @@
+
+
+body{
+    padding:0;
+    margin: 0;
+    background-color:#262626;
+    color: cornsilk;
+    
+}
+
+.nav-font{
+    font-family: 'Permanent Marker', cursive;
+}
+
+.passw-box{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    width: 500px;
+    height: 200px;
+    text-align: center;
+    align-items: center;
+}
+
+#title{
+    font-family: 'Permanent Marker', cursive;
+    font-weight: 900;
+    font-size: 95px;
+    
+}
+
+p{
+    color: #a6a6a6;;
+}
+
+.generate-button{
+    width: 150px;
+    height: 40px;
+    border-radius: 10px 10px 10px 10px;
+    border: solid black;
+    font-family: 'Permanent Marker', cursive;
+    color: black;
+}
+
+.generate-button:hover{
+    background-color:  black;
+    color: #ffff;
+}
+
+.genPass-box{
+    height: 50px;
+    background-color: #333;
+    border-radius: 10px;
+    margin-top:-10px;
+    width: 400px;
+    border-color: none;
+   
+}
+
+#cp-icon{
+    margin-left: 100px;
+    
+
+}
